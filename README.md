@@ -1,9 +1,11 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit App Multipage app 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ Toms Streamlit App
 ```
 
-Description of the app ...
+- Plot and mangement of health data
+- Polls for appointments
+- Financial analysis
 
 ## Demo App
 
